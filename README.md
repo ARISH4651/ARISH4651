@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h2 align="center">“Your short personal tagline here”</h2>
+<h2 align="center">“I enjoy exploring new places, discovering diverse cuisines across countries, and staying deeply focused on building my career.”</h2>
 
 ---
 
