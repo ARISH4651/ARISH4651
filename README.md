@@ -65,12 +65,12 @@
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="linkedin.com/in/arish-k-02a876333">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a>
+## Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARISH4651&label=Profile%20Views&color=blue&style=flat" />
-</p>
+<a href="arishkumar1719@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+</a>
+
+<a href="linkedin.com/in/arish-k-02a876333">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
