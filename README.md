@@ -5,7 +5,7 @@
 <!-- Intro -->
 <h2 align="center">“I enjoy exploring new places, discovering diverse cuisines across countries, and staying deeply focused on building my career.”</h2>
 
----
+
 <p align="center">
   <em style="color:#4FC3F7; font-size:20px;">
     “Small aim is a crime; have great aim.”
