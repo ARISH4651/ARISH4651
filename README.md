@@ -22,33 +22,45 @@
 
 
 ---
-
 ## Technical Skills
 
-**Programming & Data**
-- Python, Java
-- Pandas, NumPy, Matplotlib, Seaborn
+### Programming & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github" />
+</p>
 
-**Machine Learning & AI**
-- Supervised & Unsupervised ML
-- Feature Engineering, Model Evaluation
-- LLMs, RAG pipelines
+### Data Science & Visualization
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+</p>
 
-**AI & Automation**
-- LangChain
-- Groq
-- Pydantic AI
-- Hugging Face embeddings
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="45"/>
+</p>
 
-**Web & Scraping**
-- BeautifulSoup
-- Selenium
-- Basic React.js
+### AI, LLMs & Automation
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
+</p>
 
-**Backend & Cloud**
-- REST APIs
-- Firebase
-- AWS (deployment & hosting)
+<sub>LangChain • Hugging Face • RAG • LLMs • Pydantic AI • Groq</sub>
+
+### Web, Scraping & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" width="40"/>
+</p>
+
+<sub>BeautifulSoup • REST APIs</sub>
+
+### Cloud & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,firebase" />
+</p>
 
 ---
 ## Industry Project Experience
