@@ -1,4 +1,4 @@
-<h1 align="center">Arish K</h1>
+<h1 align="left">Arish K</h1>
 
 
 
@@ -17,7 +17,11 @@
 
 ### 🔧 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,pandas,numpy,matplotlib,seaborn,Power BI,Excel,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,streamlit" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
 ---
