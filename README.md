@@ -24,43 +24,18 @@
 ---
 ## Technical Skills
 
-### Programming & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,html,css,js,react,mysql,aws,firebase,streamlit" />
 </p>
 
-### Data Science & Visualization
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-</p>
-
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="45"/>
 </p>
 
-### AI, LLMs & Automation
-<p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
-</p>
-
 <sub>LangChain • Hugging Face • RAG • LLMs • Pydantic AI • Groq</sub>
-
-### Web, Scraping & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" width="40"/>
-</p>
-
-<sub>BeautifulSoup • REST APIs</sub>
-
-### Cloud & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,firebase" />
-</p>
 
 ---
 ## Industry Project Experience
