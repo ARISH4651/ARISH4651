@@ -1,37 +1,72 @@
-<h1 align="left">Arish K</h1>
-
-
-
-<!-- Intro -->
-<h2 align="center">“I enjoy exploring new places, discovering diverse cuisines across countries, and staying deeply focused on building my career.”</h2>
-
+<h1 align="center">Arish K</h1>
 
 <p align="center">
-  <em style="color:#4FC3F7; font-size:20px;">
+  <em style="color:#4FC3F7;">
+    Undergraduate Data Science Student | Aspiring Data Scientist
+  </em>
+</p>
+
+<p align="center">
+  <em style="color:#4FC3F7;">
     “Small aim is a crime; have great aim.”
   </em>
 </p>
 
+## About Me
 
+- Undergraduate Data Science student with strong interest in becoming a Data Scientist
+- Hands-on experience in Machine Learning, Data Analysis, and LLM-based systems
+- Built and deployed multiple end-to-end projects, from data preprocessing to model deployment
+- Industry project experience through a hospital chatbot system
+- Actively strengthening both technical depth and practical problem-solving skills
 
-### 👨‍💻 About Me
-- 🎓 Data Science / AI Enthusiast
-- 🧠 Working on RAG, ML, and Automation
-- 🚀 Focused on building real-world projects
-- 📍 India
 
 ---
 
-### 🔧 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,streamlit" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
+## Technical Skills
+
+**Programming & Data**
+- Python, Java
+- Pandas, NumPy, Matplotlib, Seaborn
+
+**Machine Learning & AI**
+- Supervised & Unsupervised ML
+- Feature Engineering, Model Evaluation
+- LLMs, RAG pipelines
+
+**AI & Automation**
+- LangChain
+- Groq
+- Pydantic AI
+- Hugging Face embeddings
+
+**Web & Scraping**
+- BeautifulSoup
+- Selenium
+- Basic React.js
+
+**Backend & Cloud**
+- REST APIs
+- Firebase
+- AWS (deployment & hosting)
 
 ---
+## Industry Project Experience
+
+**Hospital Chatbot – KG Hospital**
+
+- Contributed to the development of a healthcare chatbot system
+- Worked on RAG pipeline design and LLM integration
+- Used Hugging Face embeddings for semantic search
+- Implemented API endpoints for chatbot interaction
+- Used Firebase for data storage and management
+- Assisted with hosting and deployment on AWS
+
+## Projects
+
+- Built 20+ Machine Learning projects covering foundational and advanced concepts
+- Projects include data analysis, predictive modeling, and applied ML use cases
+- Focused on writing clean code, proper evaluation, and real-world relevance
 
 ### 📊 GitHub Stats
 <p align="center">
