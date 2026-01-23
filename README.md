@@ -70,7 +70,6 @@
   <a href="linkedin.com/in/arish-k-02a876333">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ARISH4651&label=Profile%20Views&color=blue&style=flat" />
