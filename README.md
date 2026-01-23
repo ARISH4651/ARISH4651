@@ -70,11 +70,6 @@
   <a href="linkedin.com/in/arish-k-02a876333">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
