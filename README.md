@@ -1,8 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ARISH4651/ARISH4651/main/image.png" alt="image"  />
-" />
-</p>
+<h1 align="center">Arish K</h1>
+
+
 
 <!-- Intro -->
 <h2 align="center">“I enjoy exploring new places, discovering diverse cuisines across countries, and staying deeply focused on building my career.”</h2>
