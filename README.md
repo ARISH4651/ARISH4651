@@ -7,6 +7,26 @@
 
 ---
 
+<div style="display:flex; align-items:center; justify-content:space-between; padding:20px 0;">
+
+  <!-- Left image -->
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/left.png"
+       width="60"
+       style="border-radius:50%;" />
+
+  <!-- Center text -->
+  <div style="text-align:center; flex:1;">
+    <h2 style="margin:0; color:#4FC3F7;">Small aim is a crime; have great aim.</h2>
+  </div>
+
+  <!-- Right image -->
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/right.png"
+       width="60"
+       style="border-radius:8px;" />
+
+</div>
+
+
 ### 👨‍💻 About Me
 - 🎓 Data Science / AI Enthusiast
 - 🧠 Working on RAG, ML, and Automation
