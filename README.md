@@ -1,4 +1,3 @@
-```md
 <h1 align="center">ARISH K</h1>
 
 <p align="center">
@@ -120,4 +119,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARISH4651&theme=tokyonight" />
 </p>
-```
