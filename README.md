@@ -25,7 +25,7 @@
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,html,css,js,react,mysql,aws,firebase,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,html,css,mysql,mircrosoft azure,firebase,streamlit" />
 </p>
 
 <p align="center">
