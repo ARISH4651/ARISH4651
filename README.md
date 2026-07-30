@@ -53,7 +53,7 @@
 - Jupyter Notebook
 - Firebase
 - Streamlit
-- Azure AZ Fundamentals (AI-900)
+- Azure AZ Fundamentals (AZ-900)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,html,css,mysql,azure,firebase,streamlit" />
