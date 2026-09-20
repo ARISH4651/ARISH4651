@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:arishkumar1719@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/arish-k-02a876333">LinkedIn</a> •
-  <a href="https://github.com/ARISH4651">GitHub</a>
+  <a href="https://github.com/ARISH4651">GitHub</a> •
   <a href="portfolio-one-kappa-22.vercel.app">Portfolio</a>
 </p>
 
